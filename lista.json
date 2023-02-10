@@ -3,53 +3,12 @@
     "name": "DEPORTES",
     "lista": [
       {
-        "icon": "http://imgfz.com/i/DTXY8sd.jpeg",
-        "name": "FOXSPORTS1",
-        "uri": "U2FsdGVkX19g/DRfBnFJQsMMo7sYZJBhvV0iF7LXYmR4/FgSPYeVRenTRW45FeperNfbkJonTvUQ0ceFDCyHHj0U3h/OkX1UP7s01UUBnMWk2OBz2fVCTz4FNTdAgL500kCustbJIFx/bRaLn1x4qTnQs+aefz5xAb/cdGWUge8=",
-        "lic": {
-          "keyId": "U2FsdGVkX193KEWyA+NdVy4/BEidUjzuDcv2zzCrqExGCKx1DR6TAq3T4I/SEyjsnCAVvwTt6t61/MrnWBqzBw==",
-          "key": "U2FsdGVkX189BNdgn2iP8NpUrM3QsMLN4pnoyKNfQQEEI4TY5RyAa15QEwYy1EvHD5ca+H2FKT8TgIT+u1EAwg=="
-        }
-      },
-      {
-        "icon": "http://imgfz.com/i/KPelhm7.png",
-        "name": "FOXSPRTS2",
-        "uri": "https://nosequewea.tk/fl?get=LmN2YXR0di5jb20uYXIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMySEQvU0FfTGl2ZV9kYXNoX2VuY18yQS9Gb3hTcG9ydHMySEQubXBk&key=Yzk4ZGRmZmM0NzBmZTQ0OWFlMWE4ZDY0OTIxMTY5NzY=&key2=NTA4NmQzNzBlODQwMDEwMjMyY2Y0NTMyYjE2ZTE5N2Y="
-      },
-      {
-        "icon": "https://i.ibb.co/rHckTRy/fox-sports-3.png",
-        "name": "FOXSPRTS3",
-        "uri": "https://nosequewea.tk/fl?get=LmN2YXR0di5jb20uYXIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMzSEQvU0FfTGl2ZV9kYXNoX2VuY18yQS9Gb3hTcG9ydHMzSEQubXBk&key=NTViNDczOTBjZjllNDk5N2RhZTZkYWM4NWUwNTc4NzU=&key2=ZmEzOWU4NTU1NDNjNWQ3MGYzMDYwMGQ1OWU1ZTRjMWI="
-      },
-      {
-        "icon": "https://i.ibb.co/pdmTbC8/espn.jpg",
-        "name": "ESPN1",
-        "uri": "https://nosequewea.tk/fl?get=LmN2YXR0di5jb20uYXIvbGl2ZS9jM2Vkcy9FU1BOMkhEL1NBX0xpdmVfZGFzaF9lbmMvRVNQTjJIRC5tcGQ=&key=ZTg4NGI3MTFhYjExMWJlYjhhN2JhMWU3YmNiZGM5YmY=&key2=Y2I4OWVlMzk2MTU5OWUzZTY0OGE1YWFkNjA4OTVmMzQ="
-      }
-    ]
-  },
-  {
-    "name": "PAISES LATINOS",
-    "lista": [
-      {
-        "icon": "https://www.clarin.com/img/2022/09/27/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1.jpg",
-        "name": "GH dsdsd",
-        "uri": ""
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f3/LogoCTVpng.png",
-        "name": "construir tv",
-        "uri": ""
-      }
-    ]
-  }
-]
-        "icon": "http://imgfz.com/i/DTXY8sd.jpeg",
+        "icon": "https://i.ibb.co/82XZZ3J/descarga-2.png",
         "name": "FOXSPORTS1",
         "uri": "https://nosequewea.tk/fl?get=LmN2YXR0di5jb20uYXIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMvU0FfTGl2ZV9kYXNoX2VuY18yQS9Gb3hTcG9ydHMubXBk&key=OGFkOTlmNjUxMmQ1MDQ3NjYzOTA1MmE4ZmU4YTQ2NzY=&key2=NWZmM2JlZTRjZmYwNWQzNDAwZDdlYTYwZmNjOTMyMzU="
       },
       {
-        "icon": "http://imgfz.com/i/KPelhm7.png",
+        "icon": "https://i.ibb.co/f9t1bxg/fox-sports2.png",
         "name": "FOXSPRTS2",
         "uri": "https://nosequewea.tk/fl?get=LmN2YXR0di5jb20uYXIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMySEQvU0FfTGl2ZV9kYXNoX2VuY18yQS9Gb3hTcG9ydHMySEQubXBk&key=Yzk4ZGRmZmM0NzBmZTQ0OWFlMWE4ZDY0OTIxMTY5NzY=&key2=NTA4NmQzNzBlODQwMDEwMjMyY2Y0NTMyYjE2ZTE5N2Y="
       },
@@ -59,9 +18,9 @@
         "uri": "https://nosequewea.tk/fl?get=LmN2YXR0di5jb20uYXIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMzSEQvU0FfTGl2ZV9kYXNoX2VuY18yQS9Gb3hTcG9ydHMzSEQubXBk&key=NTViNDczOTBjZjllNDk5N2RhZTZkYWM4NWUwNTc4NzU=&key2=ZmEzOWU4NTU1NDNjNWQ3MGYzMDYwMGQ1OWU1ZTRjMWI="
       }, 
       {
-        "icon": "https://i.ibb.co/pdmTbC8/espn.jpg",
-        "name": "ESPN1",
-        "uri": "https://nosequewea.tk/fl?get=LmN2YXR0di5jb20uYXIvbGl2ZS9jM2Vkcy9FU1BOMkhEL1NBX0xpdmVfZGFzaF9lbmMvRVNQTjJIRC5tcGQ=&key=ZTg4NGI3MTFhYjExMWJlYjhhN2JhMWU3YmNiZGM5YmY=&key2=Y2I4OWVlMzk2MTU5OWUzZTY0OGE1YWFkNjA4OTVmMzQ="
+        "icon": "https://i.ibb.co/rHckTRy/fox-sports-3.png",
+        "name": "FOXSPRTS4",
+        "uri": ""
       }
     ]
   },
